@@ -83,3 +83,8 @@ body {
   text-align: center;
 }
 
+.table {
+  margin: 20px;
+  overflow: hidden;
+  border-radius: 10px;
+}
